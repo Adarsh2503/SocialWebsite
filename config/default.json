@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://adarsh:adarsh@social2503-og18c.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret",
+    "githubClientid": "296680316a5a6144faec",
+    "githubSecret": "3aeb0d53c364238fc5e559c70136d279739543da"
+
+  }
